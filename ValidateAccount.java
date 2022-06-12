@@ -1,6 +1,6 @@
-package bank.t2108a;
+package lab11;
 
-public class ValidateAccount {
+public class        ValidateAccount {
     public final String MOBILE = "0904999999";
     public final String PASS = "cham` kem?";
     public boolean checkAccount( String mobile, String pass){
